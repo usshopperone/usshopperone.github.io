@@ -94,7 +94,7 @@ h2 {
 	padding: 10px 0 28px 0;
 }
 	.h-pad {
-		padding-top: 42px;
+		padding-top: 46px;
 	}
 	.h-pad1 {
 		padding-top: 50px;
@@ -237,6 +237,13 @@ header{
 			.clients-list li:first-child {
 				padding-left: 0;
 			}
+			.clients-name li {
+				float: right;
+				padding-left: 30px;
+			}
+				.clients-name li:first-child {
+					padding-left: 0;
+				}
 .camera_caption div{
 	padding: 0;
 	background: none;
